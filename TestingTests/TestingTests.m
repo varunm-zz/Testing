@@ -26,7 +26,7 @@
 
 - (void)testExample
 {
-    STAssertNil(nil, @"This object should be nil");
+    STFail(@"Unit tests are not implemented yet in TestingTests");
 }
 
 @end
